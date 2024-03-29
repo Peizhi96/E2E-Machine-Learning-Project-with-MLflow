@@ -11,3 +11,17 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+### Dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Peizhi96/E2E-Machine-Learning-Project-with-MLflow.mlflow \
+MLFLOW_TRACKING_USERNAME=Peizhi96 \
+MLFLOW_TRACKING_PASSWORD=44dcab6c340f4887f432dc5dd04e6fcf68b9b076 \
+python script.py
+
+```
+export MLFLOW_TRACKING_URI=https://dagshub.com/Peizhi96/E2E-Machine-Learning-Project-with-MLflow.mlflow 
+export MLFLOW_TRACKING_USERNAME=Peizhi96
+export MLFLOW_TRACKING_PASSWORD=44dcab6c340f4887f432dc5dd04e6fcf68b9b076 
+```
