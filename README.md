@@ -64,6 +64,6 @@ AWS-CICD-Deployment-With-Github-Actions
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = 287109008310.dkr.ecr.us-east-1.amazonaws.com/ml_project
+    AWS_ECR_LOGIN_URI = 287109008310.dkr.ecr.us-east-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = ml_project
